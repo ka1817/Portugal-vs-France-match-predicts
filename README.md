@@ -1,4 +1,5 @@
 Small Dataset Classification with Logistic Regression
+
 This repository contains code for classifying a small dataset using Logistic Regression. Due to the limited size of the dataset (9 rows and 29 columns), special consideration is given to model evaluation and selection.
 
 Overview
